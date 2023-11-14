@@ -23,4 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noumanshamraiz&show_icons=true&locale=en" alt="noumanshamraiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noumanshamraiz&" alt="noumanshamraiz" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<p><image align="center" scr=https://github-readme-stats.vercel.app/api/pin/? user=noumanshamraiz /></p>
+  https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats )](https://github.com/anuraghazra/github-readme-stats)
