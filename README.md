@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/NoumanShamraiz](https://github.com/NoumanShamraiz)
 
 - 📫 How to reach me **noumangujjarnice@gmail.com**
+- Portfollio Link https://nouman-shamraiz.github.io/Portfollio/
+- LinkedIn https://www.linkedin.com/in/nouman-shamraiz/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
